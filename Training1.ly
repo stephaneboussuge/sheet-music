@@ -1,6 +1,6 @@
 \header {
-  title = "Untitled"
-  composer = "Composer"
+  title = "Training 1"
+  composer = "S.Boussuge"
 }
 
 \score {
