@@ -13,7 +13,7 @@
 \numericTimeSignature
 \time 4/4
 
-    (f8 g a b) a (g) f4
+    f8 (g a b) a (g) f4
   }
 
   \layout {}
